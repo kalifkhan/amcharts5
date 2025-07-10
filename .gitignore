@@ -1,6 +1,6 @@
 node_modules
 /dist
-/tmp
+/tmpdsede
 /package-lock.json
 /npm-debug.log
 /yarn-error.log
