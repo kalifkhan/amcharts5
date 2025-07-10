@@ -2,5 +2,6 @@ node_modules
 /dist
 /tmpdsede
 /package-lock.json
-/npm-debug.log
+/npm-debug.logcddc
 /yarn-error.log
+c
